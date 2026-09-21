@@ -135,6 +135,4 @@ This model is intended for **educational and experimental purposes** — explori
 
 Architecture and training approach inspired by Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT).
 
-## License
 
-Add a license of your choice (e.g. MIT) if you intend for others to reuse this code.
