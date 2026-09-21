@@ -1,15 +1,3 @@
----
-language:
-- ar
-tags:
-- pytorch
-- gpt
-- nanogpt
-- text-generation
-- arabic
-license: mit
-pipeline_tag: text-generation
----
 
 # Arabic NanoGPT v2
 
